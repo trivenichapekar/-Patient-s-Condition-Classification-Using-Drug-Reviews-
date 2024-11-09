@@ -31,7 +31,7 @@ Linear  Regression
 Best Model Accuracy: 100.00
 
 # Future Work :
-# 1.Contextual and Temporal Analysis
+. 1.Contextual and Temporal Analysis
 Temporal Analysis: Analyzing the progression of patient reviews over time can help identify changes in drug effectiveness or emerging side effects, providing insights into long-term treatment outcomes.
 Longitudinal Studies: By studying patient reviews over longer periods, we can gain a better understanding of the conditions and the effectiveness of drug treatments over time.
 # 2. Enhanced Machine Learning Models
